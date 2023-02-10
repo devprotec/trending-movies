@@ -1,0 +1,1 @@
+const FLUTTER_WAVE_API_KEY = "FLWSECK-d8d93b97eead15fef78306f9e2d722eb-X";

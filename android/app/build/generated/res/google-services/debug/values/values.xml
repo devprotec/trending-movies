@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">714569909524-k9nf2a1fra1h842l0sddi2kj9j3otke7.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://advanceauth.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">714569909524</string>
+    <string name="google_api_key" translatable="false">AIzaSyC0XE3mwLn7QzZuO1Gw4qb30q_gU5tidkQ</string>
+    <string name="google_app_id" translatable="false">1:714569909524:android:3a88260f2c054717a66e01</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC0XE3mwLn7QzZuO1Gw4qb30q_gU5tidkQ</string>
+    <string name="google_storage_bucket" translatable="false">advanceauth.appspot.com</string>
+    <string name="project_id" translatable="false">advanceauth</string>
+</resources>
